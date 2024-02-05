@@ -1,0 +1,55 @@
+.content-box {
+    background-color: rgb(235, 233, 233);
+    margin-top: 5px;
+}
+
+.icon {
+    margin-left: 87%;
+    transform: translateY(-20px);
+    color: gold;
+}
+
+.btn {
+    margin-left: 89%;
+    transform: translateY(-40px);
+    background-color: gold; 
+}
+
+
+
+tr {
+    text-align: left;
+}
+
+table{
+    width: 95%;
+    margin-left: 5%;
+}
+
+.content {
+    width: 100%;
+    height: 56.5px;
+}
+
+
+img {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.input-block {
+    display: flex;
+}
+
+.first-input {
+    transform: translateX(-620%);
+}
+
+.second-input {
+    transform: translateX(-1210%);
+}
+
+.thrid-input {
+    transform: translateX(-1770%);    
+}
